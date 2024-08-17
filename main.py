@@ -1,3 +1,3 @@
-def hello_world():
+def hello_world(name):
   """функция приветствия"""
-  print('hello word')
+  print(f'hello word {name}')
